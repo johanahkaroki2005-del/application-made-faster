@@ -1,0 +1,17 @@
+# humans.txt
+
+### Author
+- **Name:** Johan Ahkaroki
+- **GitHub:** [johanahkaroki2005-del](https://github.com/johanahkaroki2005-del)
+
+### Technology Stack
+- **Languages:** JavaScript, Python
+- **Frameworks:** React, Flask
+- **Tools:** Git, Docker
+
+### Credits
+- **Inspiration:** Various open-source projects
+- **Special Thanks:** Every developer contributing to open-source communities.
+
+### Date Created
+2026-02-17 21:17:18 UTC
