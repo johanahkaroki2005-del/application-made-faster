@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# dotenv
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+/dist/
+/build/
+/tmp/
+/.next/
