@@ -1,0 +1,21 @@
+# Security.txt
+
+Contact: mailto:security@example.com
+A link to your security policy: https://example.com/security-policy
+Encryption: https://example.com/pgp-keys
+
+# Security Policy
+
+This document outlines our security policy regarding vulnerabilities and exposure management.
+
+1. **Reporting Security Vulnerabilities**  
+   - If you believe you have discovered a vulnerability in our systems, please report it immediately to our security team via email at security@example.com.
+
+2. **Response Times**  
+   - We aim to acknowledge reports within 24 hours and will keep you updated throughout the process.
+
+3. **Security Practices**  
+   - Our company is committed to safeguarding user data and employs various measures to ensure the integrity and security of our systems.
+
+4. **Public Disclosure**  
+   - We welcome responsible disclosure of vulnerabilities and will credit those who report them in a timely manner.
